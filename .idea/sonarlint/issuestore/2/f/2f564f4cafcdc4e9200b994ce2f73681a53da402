@@ -1,0 +1,15 @@
+
+g	java:S101%"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ğã”øÿÿÿÿ
+Q
+java:S1128"4Remove this unused import 'cn.hutool.json.JSONUtil'.( «ı¢8ã›—´ä1
+y
+java:S1128"WRemove this unused import 'com.baomidou.mybatisplus.extension.plugins.pagination.Page'.(±Ù¥Éúÿÿÿÿ8î›—´ä1
+f
+java:S1128"IRemove this unused import 'com.yupi.springbootinit.annotation.AuthCheck'.(Õ·¸´8ı›—´ä1
+g
+java:S1128
+"JRemove this unused import 'com.yupi.springbootinit.constant.UserConstant'.(Êº¹8œ—´ä1
+ˆ
+java:S1128"fRemove this unused import 'com.yupi.springbootinit.model.dto.interfaceInfo.InterfaceInfoQueryRequest'.(­½ÿÿÿÿÿ8œœ—´ä1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8¬œ—´ä1
